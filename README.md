@@ -1,4 +1,4 @@
- **KJR 3 Wires Protocol**
+ **KJR 3-Wire-Protocol**
  
  **The Techinical aspect behind the inner working of the 3-wire-protocol and why it works well!**
  - it uses electrical energy
