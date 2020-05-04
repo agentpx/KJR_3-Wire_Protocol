@@ -16,7 +16,7 @@
  - Electromagnetic interference from nearby location can cause crosstalks and could cause inaccurate data, to avoid this you can use the twisted wires or ideally use network cable cat 5e or cat6 or higher version.
 
 **Note**
-- The current version has a 17 character sets only ( Dot { } 0 1 2 3 4 5 6 7 8 9 + - Comma )
+- The current version has a 16 character sets only ( Dot { } 0 1 2 3 4 5 6 7 8 9 + - Comma )
 
  **See below sample layout connections** 
  <img src="https://github.com/krakenjriot/KJR_3-Wire_Protocol/blob/master/sample_layout_connections.png" width=800 />  
