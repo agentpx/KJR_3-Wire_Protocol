@@ -5,7 +5,7 @@
  **The Techinical aspect behind the inner working of the 3-wire-protocol and why it works well!**
  - it uses electrical energy
  - electrical energy travels as a constant speed no matter the resistance
- - 
+ - similar to morse code this protocol depends on the duration of the beeps
  
  **Advantages**
  -
