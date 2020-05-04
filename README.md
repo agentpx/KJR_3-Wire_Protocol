@@ -8,6 +8,7 @@
  **Advantages**
  - Eliminated the distance limitations of common wire communication protocols (i.e. I2C, RS-232 (Serial), Parallel, & etc.)
  - Very to easy to setup and implement
+ - You can add as many slaves as you want as long as you can accept the added delays for each slaves as this protocol works on queue concept as well
 
  
  **Disadvantages**
