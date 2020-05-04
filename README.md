@@ -3,6 +3,7 @@
  **The Techinical aspect behind the inner working of the 3-wire-protocol and why it works well!**
  - It uses electrical energy pulses (pulse of certain duration)
  - Electrical energy travels at a constant speed no matter the medium (wire) resistance
+ - Eliminated the distance limitations of other wire communication protocols (i.e. I2C, RS-232 (Serial), Parallel Comm. & etc.)
  - The protocol is similar to morse code this protocol depends on the duration of the beeps
  
  **Advantages**
