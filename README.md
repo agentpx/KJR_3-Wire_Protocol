@@ -11,7 +11,7 @@
  - You can add as many slaves as you want as long as you can accept the added delays for each slaves as this protocol works on queue concept as well
  
  **Disadvantages**
- - Slow transfer as this method of detection depends on the delay of the pulses
+ - Slow transfer as this method of detection depends on the duration of the pulses
  - Voltage drop along the wires is directly proportional to the distance, if your project will require only few meters that would not be an issue, if you wanted to implement this at a larger distances, you can still make this work, just keep and maintain the voltage at the recieving end at a allowable detection threshold, you can use an external power booster
  - Electromagnetic interference from nearby location can cause crosstalks and could cause inaccurate data, to avoid this you can use the twisted wires or ideally use network cable cat 5e or cat6 or higher version.
 
