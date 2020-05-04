@@ -7,18 +7,15 @@
  
  **Advantages**
  - Eliminated the distance limitations of common wire communication protocols (i.e. I2C, RS-232 (Serial), Parallel, & etc.)
- - 
+ - Very to easy to setup and implement
 
  
  **Disadvantages**
  - Slow transfer as this method of detection depends on the delay of the pulses
- - voltage drop along the wires is directly proportional to the distance however if you can keep and maintain the voltage at the recieving end at a allowable detection threshold this protocol can still work (100meters, 300 meters?)
+ - Voltage drop along the wires is directly proportional to the distance, if your project will require only few meters that would not be an issue, if you wanted to implement this at a larger distances, you can still make this work, just keep and maintain the voltage at the recieving end at a allowable detection threshold, just use an external power booster.
+ - Electromagnetic interference from nearby location can cause crosstalks and could cause inaccurate data, to avoid this you can use the twisted wires or ideally use network cable cat 5e or cat6 or higher version.
  
- 
- electricity travels at a constants speed regardless of the resistance of wire
- 
- method of transmission is based on electrical energylapse or the duration of transmission
- 
+ **See below sample layout connections** 
  <img src="https://github.com/krakenjriot/KJR_3-Wire_Protocol/blob/master/sample_layout_connections.png" width=800 />  
  
  
