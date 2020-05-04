@@ -2,12 +2,12 @@
 
  KJR 3 Wires Protocol 
  
- ##The Techinical aspect behind inner working of the 3-wire-protocol and why it works well!
+ *The Techinical aspect behind inner working of the 3-wire-protocol and why it works well!
  - it uses electrical energy
  - electrical energy travels as a constant speed no matter the resistance
  - 
  
- #Advantages
+ **Advantages
  -
  
  electricity travels at a constants speed regardless of the resistance of wire
