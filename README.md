@@ -1,13 +1,19 @@
  **KJR 3-Wire-Protocol**
  
- **The Techinical aspect behind the inner working of the 3-wire-protocol and why it works well!**
+ **The Techinical aspect behind the inner working of the kjr-3-wire-protocol and why it works well!**
  - It uses electrical energy pulses (pulse of certain duration)
  - Electrical energy travels at a constant speed no matter the medium (wire) resistance
- - Eliminated the distance limitations of other wire communication protocols (i.e. I2C, RS-232 (Serial), Parallel Comm. & etc.)
- - The protocol is similar to morse code this protocol depends on the duration of the beeps
+ - This protocol is similar to morse code, it depends on the duration of the beeps
  
  **Advantages**
- -
+ - Eliminated the distance limitations of common wire communication protocols (i.e. I2C, RS-232 (Serial), Parallel, & etc.)
+ - 
+
+ 
+ **Disadvantages**
+ - Slow transfer as this method of detection depends on the delay of the pulses
+ - voltage drop along the wires is directly proportional to the distance however if you can keep and maintain the voltage at the recieving end at a allowable detection threshold this protocol can still work (100meters, 300 meters?)
+ 
  
  electricity travels at a constants speed regardless of the resistance of wire
  
