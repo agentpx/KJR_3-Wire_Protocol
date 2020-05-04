@@ -1,8 +1,8 @@
  **KJR 3-Wire-Protocol**
  
- **The Techinical aspect behind the inner working of the kjr-3-wire-protocol and why it works well!**
+ **The techinical aspect behind the inner working of the kjr-3-wire-protocol and why it works well!**
  - It uses electrical energy pulses (pulse of certain duration)
- - Electrical energy travels at a constant speed no matter the medium (wire) resistance
+ - Electrical energy travels at a constant speed no matter the medium (wire) resistance is
  - This protocol is similar to morse code, it depends on the duration of the beeps
  
  **Advantages**
